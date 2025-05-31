@@ -1,2 +1,2 @@
 # goldenratiopatterns
-Found repeating numbers in golden ratio up to 8 repeating in sequence after 10,000,000 iterations
+Found repeating numbers in golden ratio up to 9 repeating in sequence after 45,000,000 iterations
